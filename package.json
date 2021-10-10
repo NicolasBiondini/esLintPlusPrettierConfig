@@ -21,5 +21,9 @@
     "prettier": "^2.4.1"
   },
   "author": "Nicolás Biondini",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolasBiondini/esLintPlusPrettierConfig.git"
+  }
 }
